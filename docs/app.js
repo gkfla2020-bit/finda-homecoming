@@ -5,7 +5,7 @@
   // endpoint: Google Apps Script 웹 앱 주소 (…/exec). 비어 있으면 제출을 받지 않는다.
   // contactPhone: 회장 연락처 숫자만. 비어 있으면 전화·문자 버튼을 숨긴다.
   const CONFIG = {
-    endpoint: '',
+    endpoint: 'https://script.google.com/macros/s/AKfycbwPfjZC_8yW2SlrpxKSSNEgQA1sdBVmx67O4lpFC8CeqSUuOBgTre_g0cEC0V_fUs_R/exec',
     contactPhone: '',
   };
 
